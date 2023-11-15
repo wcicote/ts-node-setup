@@ -8,7 +8,8 @@
     "husky:prepare": "husky install",
     "test": "jest --passWithNoTests",
     "test:watch": "jest --watch",
-    "test:staged": "npm test --findRalatedTest"
+    "test:staged": "npm test --findRalatedTest",
+    "test:push": "npm test --coverage"
   },
   "keywords": [],
   "author": "",
