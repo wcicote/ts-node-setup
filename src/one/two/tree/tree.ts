@@ -1,7 +1,5 @@
-class Tree {
-  log() {
-    return 3
-  }
-}
+import Person from "@/Person"
 
-export default Tree
+const person = new Person()
+
+export default person
