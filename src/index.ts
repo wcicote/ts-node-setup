@@ -1,6 +1,6 @@
 import * as express from "express"
 import { Request, Response } from "express"
-import Person from "@/Person"
+import Person from "@/person"
 
 const app = express()
 
